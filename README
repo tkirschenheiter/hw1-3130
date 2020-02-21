@@ -1,0 +1,10 @@
+Homework 1 - Spotify Chart Data Linked List
+
+This repository was created to demonstrate the implementation of reading in a file and sorting it, then putting the data into a linked list.
+
+*Note* I changed the file into a TSV file (program will only work with TSVs) because of the extra use of commas in song and artist names. 
+To use program simply convert any CSV into a TSV.
+
+Author notes. This repository was created by Professor Katherine Chuang for use with teaching at Brooklyn College's Department of CIS.
+
+Installation
